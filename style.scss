@@ -19,8 +19,10 @@ html {
 
 body {
 	background: url(https://images.freecreatives.com/wp-content/uploads/2016/03/White-Background-Iphone-Pics-1.jpg);
-  font: 18px/1.4 $helvetica;
   color: $darkGray;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
 }
 
 .container {
