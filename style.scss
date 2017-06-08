@@ -19,7 +19,7 @@ html {
 
 body {
 	background: url(https://images.freecreatives.com/wp-content/uploads/2016/03/White-Background-Iphone-Pics-1.jpg);
-  font: 18px/1.4 $Verdana;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -28,6 +28,9 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+}
+div {
+    box-shadow: 10px 10px 5px #888888;
 }
 
 h1, h2, h3, h4, h5, h6 {
